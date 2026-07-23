@@ -7,6 +7,10 @@
 Traversal Hunter is a Burp Suite extension that automates the detection of **Local File Inclusion (LFI)** and **Path Traversal** vulnerabilities. It performs intelligent reconnaissance, filter fingerprinting, adaptive payload mutation, and multi-phase scoring to confirm exploitable traversal flaws with minimal user interaction.
 
 ---
+## Screenshots
+![ScreenShot](images/1.PNG)
+![ScreenShot](images/2.PNG)
+![ScreenShot](images/3.PNG)
 
 ## Download
 
