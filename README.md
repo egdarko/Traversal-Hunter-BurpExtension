@@ -10,7 +10,7 @@ Traversal Hunter is a Burp Suite extension that automates the detection of **Loc
 ## Screenshots
 ![ScreenShot](images/1.PNG)
 ![ScreenShot](images/2.PNG)
-![ScreenShot](images/3.PNG)
+![ScreenShot](images/2.PNG)
 
 ## Download
 
